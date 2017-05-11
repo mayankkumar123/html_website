@@ -1,0 +1,78 @@
+.red{
+	background-color: red;
+	padding: 8px 10px 8px 10px;
+}
+.border{
+background-color: red;
+height: 5px;
+
+}
+.black:hover{
+	background-color:blue;
+	padding: 8px 10px 8px 10px;
+}
+.black:active{
+	background-color:red;
+	padding: 8px 10px 8px 10px;
+}
+.border1{
+background-color: green;
+height: 5px;
+	}
+	
+body{
+	background-image:url(i.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width:100%;
+	margin:0;
+	padding:0;
+}
+
+	.image {
+	background-image:url(5.jpg);
+	width:28%;
+	height:67%;
+	background-repeat:no-repeat;
+	background-size: cover;
+    margin:5% 15% 0% 15%;
+	overflow:hidden;
+	}
+	.write{
+		text-align: centre;
+	}
+#content { 
+  text-align: left;
+  width: 440px;
+  margin: 0 0 0 0;
+  float: right;
+  padding: 0 20px 20px 20px;
+  
+}
+  
+.write {
+	margin: 5% 0% 0% 0%;
+    color:black;
+	background:white;
+	
+	display:inline-block;
+}
+.write1{
+	margin: 0 0 0 0;
+    color:black;
+	background:white;
+	
+	display:inline-block;
+}
+.write2 {
+	margin: 0 0 0 0;
+    color:black;
+	background:white;
+	
+	display:inline-block;
+
+
+
+
+
+ 
